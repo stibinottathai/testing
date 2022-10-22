@@ -2,3 +2,5 @@ hello man how are you
 
 what is your name
 login page implemnted
+
+home page implemented
