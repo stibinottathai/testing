@@ -5,3 +5,6 @@ login page implemnted
 
 home page implemented
 signup page implemeted
+
+
+Log out page added
